@@ -97,3 +97,20 @@ header {
 .card p {
     text-align: center;
 }
+
+.quote-section {
+    padding: 70px 200px;
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.author {
+    text-align: end;
+    font-weight: bold;
+    padding-right: 40px;
+}
