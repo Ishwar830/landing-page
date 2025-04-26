@@ -140,3 +140,14 @@ header {
     border: 2px solid white;
     font-weight: bold;
 }
+
+footer {
+    padding: 20px 200px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
+
+footer div {
+    text-align: center;
+    font-weight: bold;
+}
